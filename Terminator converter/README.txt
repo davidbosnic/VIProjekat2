@@ -1,0 +1,1 @@
+To open this app you need to go in main folder and run main.exe
